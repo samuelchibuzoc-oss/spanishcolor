@@ -1,0 +1,22 @@
+#red{
+color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: rgba(231, 77, 5, 0.671);
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.shaba{
+    font-weight: normal  ;
+}
